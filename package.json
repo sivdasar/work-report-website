@@ -27,7 +27,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "http://yourwebsite.com",
+  "homepage": "https://sivdasar.github.io/work-report-website",
   "browserslist": {
     "production": [
       ">0.2%",
