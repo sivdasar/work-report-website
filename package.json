@@ -1,0 +1,43 @@
+{
+  "name": "work-report-website",
+  "version": "1.0.0",
+  "description": "A website for presenting quarterly work reports to the team.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "NODE_OPTIONS=--openssl-legacy-provider PORT=3000 react-scripts start",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [
+    "work",
+    "report",
+    "quarterly",
+    "presentation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "homepage": "http://yourwebsite.com",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
