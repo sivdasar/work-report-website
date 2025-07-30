@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/work-report-website/static/css/main.50f17823.chunk.css",
-    "main.js": "/work-report-website/static/js/main.dca8605e.chunk.js",
-    "main.js.map": "/work-report-website/static/js/main.dca8605e.chunk.js.map",
+    "main.js": "/work-report-website/static/js/main.7a813d51.chunk.js",
+    "main.js.map": "/work-report-website/static/js/main.7a813d51.chunk.js.map",
     "runtime-main.js": "/work-report-website/static/js/runtime-main.e96f23b7.js",
     "runtime-main.js.map": "/work-report-website/static/js/runtime-main.e96f23b7.js.map",
     "static/js/2.6865a514.chunk.js": "/work-report-website/static/js/2.6865a514.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e96f23b7.js",
     "static/js/2.6865a514.chunk.js",
     "static/css/main.50f17823.chunk.css",
-    "static/js/main.dca8605e.chunk.js"
+    "static/js/main.7a813d51.chunk.js"
   ]
 }
